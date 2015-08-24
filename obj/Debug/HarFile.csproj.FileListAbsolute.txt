@@ -1,0 +1,10 @@
+c:\users\sean\documents\visual studio 2013\Projects\HarFile\HarFile\bin\Debug\HarFile.exe.config
+c:\users\sean\documents\visual studio 2013\Projects\HarFile\HarFile\bin\Debug\HarFile.exe
+c:\users\sean\documents\visual studio 2013\Projects\HarFile\HarFile\bin\Debug\HarFile.pdb
+c:\users\sean\documents\visual studio 2013\Projects\HarFile\HarFile\obj\Debug\HarFile.csprojResolveAssemblyReference.cache
+c:\users\sean\documents\visual studio 2013\Projects\HarFile\HarFile\obj\Debug\HarFile.Form1.resources
+c:\users\sean\documents\visual studio 2013\Projects\HarFile\HarFile\obj\Debug\HarFile.Properties.Resources.resources
+c:\users\sean\documents\visual studio 2013\Projects\HarFile\HarFile\obj\Debug\HarFile.csproj.GenerateResource.Cache
+c:\users\sean\documents\visual studio 2013\Projects\HarFile\HarFile\obj\Debug\HarFile.exe
+c:\users\sean\documents\visual studio 2013\Projects\HarFile\HarFile\obj\Debug\HarFile.pdb
+c:\users\sean\documents\visual studio 2013\Projects\HarFile\HarFile\bin\Debug\Newtonsoft.Json.dll
